@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(45deg, purple, red, pink);
+}
+.a h1, p{
+    text-transform: uppercase;
+    color: white;
+    padding-left: 70%;
+    position: absolute;
+    bottom: 65%;
+}
+h1{
+    padding-bottom: 10px;
+}
+.in p{
+    color: white;
+    position: absolute;
+    bottom: 40%;
+    font-family: 'Langar', cursive;
+}
+.ak-im img{
+    padding: 15% 50%;
+}
